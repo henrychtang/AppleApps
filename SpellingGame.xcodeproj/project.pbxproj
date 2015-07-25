@@ -66,7 +66,6 @@
 		BAF127A917B155580048CCB4 /* CAT.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BAF127A817B155580048CCB4 /* CAT.jpeg */; };
 		BAF127AB17B1562A0048CCB4 /* Line.png in Resources */ = {isa = PBXBuildFile; fileRef = BAF127AA17B1562A0048CCB4 /* Line.png */; };
 		BAF127AF17B29CC60048CCB4 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BAF127AE17B29CC60048CCB4 /* AudioToolbox.framework */; };
-		BAF127B117B463440048CCB4 /* page-flip-1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BAF127B017B463440048CCB4 /* page-flip-1.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -146,7 +145,6 @@
 		BAF127A817B155580048CCB4 /* CAT.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = CAT.jpeg; sourceTree = "<group>"; };
 		BAF127AA17B1562A0048CCB4 /* Line.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Line.png; sourceTree = "<group>"; };
 		BAF127AE17B29CC60048CCB4 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
-		BAF127B017B463440048CCB4 /* page-flip-1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "page-flip-1.mp3"; path = "../../../Downloads/page-flip-1.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -224,7 +222,6 @@
 				BACE2DF517C648D500F4BC01 /* no.mp3 */,
 				BACE2DF317C648C900F4BC01 /* Toggle.mp3 */,
 				BAF127AA17B1562A0048CCB4 /* Line.png */,
-				BAF127B017B463440048CCB4 /* page-flip-1.mp3 */,
 				BA05AFB317CD7F1B00B3350E /* target.png */,
 				BA05AFBD17CF835900B3350E /* CROCODILE.jpeg */,
 				BABF687C17CF85B400247F14 /* WHALE.jpeg */,
@@ -433,7 +430,6 @@
 				BA2A8ADA17D30A83002B5E31 /* K.png in Resources */,
 				BA2A8AE417D30A83002B5E31 /* U.png in Resources */,
 				BA2A8AD217D30A82002B5E31 /* C.png in Resources */,
-				BAF127B117B463440048CCB4 /* page-flip-1.mp3 in Resources */,
 				BABF687D17CF85B400247F14 /* WHALE.jpeg in Resources */,
 				BA2A8ADF17D30A83002B5E31 /* P.png in Resources */,
 				BA2A8AD417D30A82002B5E31 /* E.png in Resources */,
